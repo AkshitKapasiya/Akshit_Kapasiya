@@ -1,4 +1,4 @@
-![logo](https://github.com/AkshitKapasiya/Akshit_Kapasiya/blob/main/Github%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Akshit Kapasiya</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
